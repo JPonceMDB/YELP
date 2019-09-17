@@ -1,5 +1,5 @@
 # YELP
-Some insights based on YELP reviews dataset using Tableau
+Some insights based on YELP reviews dataset using Tableau.
 
 **Online version available**
 
